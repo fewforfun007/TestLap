@@ -1,1 +1,2 @@
-dfgdhfhdfh
+#!/bin/bash
+echo $(date)
